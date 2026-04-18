@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Iowa, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 113 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `217480` |
 | Location | Iowa |
 | Category | Restaurants |
-| Full dataset size | 1,075 records |
-| Free sample size | 10 records (0.93%) |
-| Last export | 2026-04-01T01:40:37.731135+00:00 |
+| Full dataset size | 1,139 records |
+| Free sample size | 113 records (9.92%) |
+| Last export | 2026-04-15T04:00:57.848493+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-iowa-us-sample-217480/releases/download/sample-latest/beamstation_217480_restaurants-us-ia_SAMPLE_DIST.csv) |
 
 ## What is in this sample
