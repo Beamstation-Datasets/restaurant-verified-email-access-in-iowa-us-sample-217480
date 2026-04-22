@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a75a8f3b-71db-42f7-a0f4-1bbff4360076",
+  "export_job_id": "8599e8a3-831f-42b6-9e84-6983c3e5f6f0",
   "id_short": 217480,
-  "published_at": "2026-04-18T07:37:25Z",
+  "published_at": "2026-04-22T19:23:50Z",
   "repo_name": "restaurant-verified-email-access-in-iowa-us-sample-217480",
   "sample_asset_name": "beamstation_217480_restaurants-us-ia_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/217480/beamstation_217480_restaurants-us-ia_SAMPLE_DIST.csv",
-  "sample_records": 113,
-  "sample_sha256": "644c5ee1deda4aaa5deb8448f1b4e4b42393e0bb2d39b629ec1ab7c26a44d0a2",
-  "sample_size_bytes": 458720,
-  "total_records": 1139
+  "sample_records": 45,
+  "sample_sha256": "0bf89fc9cab94965a4d2bb07b9bc68e1386b156d10b621e355a1b306df5c7f42",
+  "sample_size_bytes": 194229,
+  "total_records": 450
 }
